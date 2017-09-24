@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>PDG IITR</title>
+ <link href="http://yourdomain.com/startbootstrap-clean-blog-jekyll/atom.xml" rel="self"/>
+ <link href="http://yourdomain.com/startbootstrap-clean-blog-jekyll/"/>
+ <updated>2017-09-24T20:37:59+05:30</updated>
+ <id>http://yourdomain.com</id>
+ <author>
+   <name></name>
+   <email></email>
+ </author>
+
+ 
+
+</feed>
