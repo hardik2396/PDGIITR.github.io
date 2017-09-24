@@ -1,18 +1,13 @@
 # Site settings
 title: PDG IITR
 header-img: img/home-bg.jpg
-nav_title: Paper Discussion Group IIT Roorkee
 email: your-email@yourdomain.com
-copyright_name: Paper Discussion Group IIT Roorkee
+copyright_name: Your/Project/Corporate Name
 description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/PDGIITR"
-<<<<<<< HEAD
-url: "https://balance-breaker.github.io"
-=======
-url: "http://balance-breaker.github.io"
->>>>>>> c2b5f49c9c1f1dea095d0a7ab3b7ec9d71d38849
+baseurl: "/startbootstrap-clean-blog-jekyll"
+url: "http://yourdomain.com"
 twitter_username: SBootstrap
-github_username:  Balance-Breaker
+github_username:  davidtmiller
 facebook_username:  StartBootstrap
 email_username:  your-email@yourdomain.com
 
