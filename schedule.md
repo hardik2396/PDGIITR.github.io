@@ -17,7 +17,7 @@ Date| Paper |  Presenter   | Notes
 27 Aug| Visualizing and Understanding Convolutional Networks [(PDF)](https://arxiv.org/pdf/1311.2901.pdf)  | Saurabh  | [Notes] 
 1 Sept |  Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs) [(PDF)](https://arxiv.org/pdf/1511.07289.pdf)  | Hardik | [Notes]
 1 Sept | An overview of gradient descent optimization algorithms [(PDF)](https://arxiv.org/pdf/1609.04747.pdf)  | Saurabh   | [Notes]
-27 June| Generative Adversarial Networks [(PDF)](https://arxiv.org/pdf/1406.2661.pdf), Wasserstein GAN[(PDF)](https://arxiv.org/pdf/1701.07875.pdf)  | Viraj, Dr. Hegde | [Notes](https://virajshah018.github.io//2017/06/26/week4/)
+4 Sept| Efficient Estimation of Word Representations in Vector Space(https://arxiv.org/pdf/1301.3781.pdf)| Kanav | [Notes]
 30 June| Compressed sensing using generative models [(PDF)](https://arxiv.org/pdf/1703.03208.pdf)| Praneeth | [Notes](https://virajshah018.github.io//2017/06/29/week5/)
 7 July| Understanding Trainable Sparse Coding with Matrix Factorization [(PDF)](https://arxiv.org/pdf/1609.00285.pdf)| Thanh | [Notes](https://virajshah018.github.io//2017/07/06/week6/)
 11 July| Maximal Sparsity with Deep Networks?[(PDF)](https://arxiv.org/pdf/1605.01636.pdf) | Thanh | [Notes](https://virajshah018.github.io//2017/07/10/week7/)
