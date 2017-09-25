@@ -22,7 +22,5 @@ Date| Paper |  Presenter   | Notes
 7 Sept| Understanding Trainable Sparse Coding with Matrix Factorization [(PDF)](https://arxiv.org/pdf/1609.00285.pdf)| Thanh | [Notes]
 7 Sept | Maximal Sparsity with Deep Networks?[(PDF)](https://arxiv.org/pdf/1605.01636.pdf) | Thanh | [Notes] 
 -- | **Mid Term Break**  | --| --
-18 July| Stabilizing GAN Training with Multiple Random Projections[(PDF)](https://arxiv.org/pdf/1705.07831.pdf) | Viraj | [Notes](https://virajshah018.github.io//2017/07/17/week8/)
-21 July, 25 July | **No meeting** (owing to [ILAS 2017](https://ilas2017.math.iastate.edu/)) | -- | --
-28 July | 2 - 3:30 pm , 3:45 - 5:15 pm - **Data Science Reading Group Seminars** | Invited Speakers | [Details](https://virajshah018.github.io//2017/07/24/week9/) 
-1 Aug | Towards Understanding the Invertibility of Convolutional Neural Networks [(PDF)](https://arxiv.org/pdf/1705.08664.pdf) | Gauri | [Notes](https://virajshah018.github.io//2017/07/31/week10/) 
+25 Sept | Rich feature hierarchies for accurate object detection and semantic segmentation [(PDF)](https://arxiv.org/pdf/1311.2524.pdf) | Gauri | [Notes]
+25 Sept | Fast R-CNN [(PDF)](https://arxiv.org/pdf/1504.08083.pdf) | Manu | [Notes]
