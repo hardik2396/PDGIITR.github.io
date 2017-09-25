@@ -8,5 +8,6 @@ We are group of undergraduate students get together to read and understand the v
 We meet twice a week.Please see our [Reading list](https://virajshah018.github.io/reading/) and [Schedule](https://virajshah018.github.io/schedule/) page for more details.
 Details about upcoming meets are posted on [Home](http://virajshah018.github.io).
 
-The group is open for undergrad students/researchers/professors. Please send an email to Hardik at <chauhanhardik23@gmail.com> if interested.  
+The group is open for undergrad students/researchers. Please send an email to [Hardik](https://www.facebook.com/backpropagater)
+at <chauhanhardik23@gmail.com> if interested.  
 
