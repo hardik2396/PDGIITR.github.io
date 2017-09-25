@@ -12,12 +12,12 @@ title: Schedule
 
 Date| Paper |  Presenter   | Notes
 ------|-------|--------------|-------
-24 Aug| On the Computational Efficiency of Training Neural Networks [(PDF)](https://arxiv.org/pdf/1410.1141.pdf) | M. Soltani| [Notes](https://virajshah018.github.io//2017/06/09/week1/)
-9 June| Polynomial Networks and Factorization Machines [(PDF)](https://arxiv.org/pdf/1607.08810.pdf)  | M. Soltani| [Notes](https://virajshah018.github.io//2017/06/09/week1/)
-13 June| Learning ReLUs via gradient descent [(PDF)](https://arxiv.org/pdf/1705.04591.pdf)  | Gauri | [Notes](https://virajshah018.github.io//2017/06/12/week2/)
-16 June| Learning ReLUs via gradient descent [(PDF)](https://arxiv.org/pdf/1705.04591.pdf)  | Gauri  | [Notes](https://virajshah018.github.io//2017/06/12/week2/)
-20 June| **No meeting** (owing to [MMLS](http://mjt.web.engr.illinois.edu/mmls_17/)) | --| --
-23 June| Generative Adversarial Networks [(PDF)](https://arxiv.org/pdf/1406.2661.pdf)  | Viraj | [Notes](https://virajshah018.github.io//2017/06/22/week3/)
+24 Aug| ImageNet Classification with Deep Convolutional
+Neural Networks [(PDF)](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) | Karan Desai| [Notes]
+24 Aug| Very Deep Convolutional Networks for Large-Scale Image Recognition [(PDF)](https://arxiv.org/pdf/1409.1556.pdf)  | Sanatan Sharma | [Notes]
+27 Aug| Visualizing and Understanding Convolutional Networks [(PDF)](https://arxiv.org/pdf/1311.2901.pdf)  | Saurabh Mishra | [Notes] 
+1 Sept |  Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs) [(PDF)](https://arxiv.org/pdf/1511.07289.pdf)  | Hardik | [Notes]
+1 Sept | An overview of gradient descent optimization algorithms [(PDF)](https://arxiv.org/pdf/1609.04747.pdf)  | Saurabh Mishra  | [Notes]
 27 June| Generative Adversarial Networks [(PDF)](https://arxiv.org/pdf/1406.2661.pdf), Wasserstein GAN[(PDF)](https://arxiv.org/pdf/1701.07875.pdf)  | Viraj, Dr. Hegde | [Notes](https://virajshah018.github.io//2017/06/26/week4/)
 30 June| Compressed sensing using generative models [(PDF)](https://arxiv.org/pdf/1703.03208.pdf)| Praneeth | [Notes](https://virajshah018.github.io//2017/06/29/week5/)
 7 July| Understanding Trainable Sparse Coding with Matrix Factorization [(PDF)](https://arxiv.org/pdf/1609.00285.pdf)| Thanh | [Notes](https://virajshah018.github.io//2017/07/06/week6/)
