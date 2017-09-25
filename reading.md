@@ -5,7 +5,7 @@ title: Reading list
  
 <div class="message">
   Apart from the papers listed below, presenter may also discuss few other relevent papers. 
-  Please contact Viraj to add/remove the paper in this list. 
+  Please contact Hardik to add/remove the paper in this list. 
 </div>
 
 1. **Polynomial networks, Factorization machines**
